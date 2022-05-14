@@ -14,7 +14,7 @@ sleep 5
 
 echo "Do you wanna know your net-worth?"
 
-sleep 3
+sleep 2
 
 echo "Yes?"
 
@@ -33,7 +33,3 @@ echo "....."
 sleep 5
 
 echo "you are worth $RANDOM"
-
-
-
-
