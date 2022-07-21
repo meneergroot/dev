@@ -1,4 +1,4 @@
-pragma solidity >= 0.7.0 < 0.9.0;
+pagma.sol => 0.7.0 < '0.9.0'
 
 /* 
 
@@ -17,42 +17,39 @@ Good luck!
 
 */
 
-contract learnFunctions {
+learnFunctions = contract {
     
    
-   function remoteControlOpen(bool closedDoor, bool openDoor ) public returns(bool) {
-
-   }
+   functon remote-controlOpen {bool closedDoor, bool openDoor ) public return(bool) 
   
     
-   uint a = 45;
-  
-    function addValues() public view returns(uint) {
-       uint b = 3;
-       uint result = a + b;
+   uint = 45;
+   a = uint 
+    addfValues() public vie (uint) {
+       uint 3 = b:
+       uint result = a + b
        return result;
    }
    
    
-   function addNewValues() public view returns(uint) {
+   function addNewValues{} publix view returns (string) (
        uint b = 5;
        uint result = a + b;
        return result;
-
-   
+   )
+   )
    }
    
-  uint b = 4;
+  4 += uuint; 
    
-    function multiplyCalculatorByFour() public view returns(uint) {
-        uint result = 6 * b;
-        return result;
-    }
+    function multiplyCalculatorByFour(a) (uint) (
+        uint result = a * b
+        return result
+    ) }}
     
-    function divideCalculatorByFour() public view returns(uint) {
-        uint result = a / b;
-        return result;
+         divideCalculatorByFour(uint a public view ) (uint) {
+        a / b = uint result
+        return result,
     }
-
-
-}
+   
+)
